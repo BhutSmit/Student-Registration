@@ -1,0 +1,32 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model Student_Registration_Theme.Areas.Branch.Models.MST_BranchModel;
+
+<div class="container border border-gray rounded p-5 shadow">
+
+    <h2><i class="bi bi-gear me-2 pb-5" style="font-size: 25px"></i>Branch</h2>
+
+    <hr />
+
+    <form class="pt-3" method="post" asp-area="Branch" asp-controller="MST_Branch" asp-action="MST_BranchSave">
+
+        <div class="col my-4">
+            <input type="text" class="form-control" asp-for="BranchName" placeholder="Branch Name" aria-label="First name">
+        </div>
+
+        <div class="col my-4">
+            <input type="text" class="form-control" asp-for="BranchCode" placeholder="Branch Code" aria-label="Last name">
+        </div>
+
+        <div class="col mt-4">
+
+            <input type="hidden" name="BranchID" value="@Model.BranchID" />
+            <button class="btn btn-primary" type="submit">Submit</button>
+
+        </div>
+
+    </form>
+
+</div>

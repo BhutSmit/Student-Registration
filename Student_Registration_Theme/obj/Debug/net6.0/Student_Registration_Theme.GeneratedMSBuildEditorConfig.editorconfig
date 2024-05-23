@@ -1,0 +1,105 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Student_Registration_Theme
+build_property.RootNamespace = Student_Registration_Theme
+build_property.ProjectDir = D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Sem 5/Asp Dot Net/NIce Admin Theme 1/Student_Registration_Theme/Student_Registration_Theme/Areas/Branch/Views/MST_Branch/MST_BranchAddEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQnJhbmNoXFZpZXdzXE1TVF9CcmFuY2hcTVNUX0JyYW5jaEFkZEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Sem 5/Asp Dot Net/NIce Admin Theme 1/Student_Registration_Theme/Student_Registration_Theme/Areas/Branch/Views/MST_Branch/MST_BranchList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQnJhbmNoXFZpZXdzXE1TVF9CcmFuY2hcTVNUX0JyYW5jaExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Sem 5/Asp Dot Net/NIce Admin Theme 1/Student_Registration_Theme/Student_Registration_Theme/Areas/Branch/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQnJhbmNoXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Sem 5/Asp Dot Net/NIce Admin Theme 1/Student_Registration_Theme/Student_Registration_Theme/Areas/City/Views/LOC_City/LOC_CityAddEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2l0eVxWaWV3c1xMT0NfQ2l0eVxMT0NfQ2l0eUFkZEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Sem 5/Asp Dot Net/NIce Admin Theme 1/Student_Registration_Theme/Student_Registration_Theme/Areas/City/Views/LOC_City/LOC_CityList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2l0eVxWaWV3c1xMT0NfQ2l0eVxMT0NfQ2l0eUxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Sem 5/Asp Dot Net/NIce Admin Theme 1/Student_Registration_Theme/Student_Registration_Theme/Areas/City/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2l0eVxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Sem 5/Asp Dot Net/NIce Admin Theme 1/Student_Registration_Theme/Student_Registration_Theme/Areas/Country/Views/LOC_Country/LOC_CountryAddEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ291bnRyeVxWaWV3c1xMT0NfQ291bnRyeVxMT0NfQ291bnRyeUFkZEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Sem 5/Asp Dot Net/NIce Admin Theme 1/Student_Registration_Theme/Student_Registration_Theme/Areas/Country/Views/LOC_Country/LOC_CountryList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ291bnRyeVxWaWV3c1xMT0NfQ291bnRyeVxMT0NfQ291bnRyeUxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Sem 5/Asp Dot Net/NIce Admin Theme 1/Student_Registration_Theme/Student_Registration_Theme/Areas/Country/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ291bnRyeVxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Sem 5/Asp Dot Net/NIce Admin Theme 1/Student_Registration_Theme/Student_Registration_Theme/Areas/State/Views/LOC_State/LOC_StateAddEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RhdGVcVmlld3NcTE9DX1N0YXRlXExPQ19TdGF0ZUFkZEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Sem 5/Asp Dot Net/NIce Admin Theme 1/Student_Registration_Theme/Student_Registration_Theme/Areas/State/Views/LOC_State/LOC_StateList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RhdGVcVmlld3NcTE9DX1N0YXRlXExPQ19TdGF0ZUxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Sem 5/Asp Dot Net/NIce Admin Theme 1/Student_Registration_Theme/Student_Registration_Theme/Areas/State/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RhdGVcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Sem 5/Asp Dot Net/NIce Admin Theme 1/Student_Registration_Theme/Student_Registration_Theme/Areas/Student/Views/MST_Student/MST_StudentAddEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3R1ZGVudFxWaWV3c1xNU1RfU3R1ZGVudFxNU1RfU3R1ZGVudEFkZEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Sem 5/Asp Dot Net/NIce Admin Theme 1/Student_Registration_Theme/Student_Registration_Theme/Areas/Student/Views/MST_Student/MST_StudentList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3R1ZGVudFxWaWV3c1xNU1RfU3R1ZGVudFxNU1RfU3R1ZGVudExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Sem 5/Asp Dot Net/NIce Admin Theme 1/Student_Registration_Theme/Student_Registration_Theme/Areas/Student/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3R1ZGVudFxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Sem 5/Asp Dot Net/NIce Admin Theme 1/Student_Registration_Theme/Student_Registration_Theme/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Sem 5/Asp Dot Net/NIce Admin Theme 1/Student_Registration_Theme/Student_Registration_Theme/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Sem 5/Asp Dot Net/NIce Admin Theme 1/Student_Registration_Theme/Student_Registration_Theme/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Sem 5/Asp Dot Net/NIce Admin Theme 1/Student_Registration_Theme/Student_Registration_Theme/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Sem 5/Asp Dot Net/NIce Admin Theme 1/Student_Registration_Theme/Student_Registration_Theme/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Sem 5/Asp Dot Net/NIce Admin Theme 1/Student_Registration_Theme/Student_Registration_Theme/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Sem 5/Asp Dot Net/NIce Admin Theme 1/Student_Registration_Theme/Student_Registration_Theme/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-lx15d1dii0

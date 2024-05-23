@@ -1,0 +1,976 @@
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\appsettings.Development.json
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\appsettings.json
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Student_Registration_Theme.staticwebassets.runtime.json
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Student_Registration_Theme.exe
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Student_Registration_Theme.deps.json
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Student_Registration_Theme.runtimeconfig.json
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Student_Registration_Theme.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Student_Registration_Theme.pdb
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.csproj.AssemblyReference.cache
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.AssemblyInfoInputs.cache
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.AssemblyInfo.cs
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.csproj.CoreCompileInputs.cache
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.MvcApplicationPartsAssemblyInfo.cache
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.RazorAssemblyInfo.cache
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.RazorAssemblyInfo.cs
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\staticwebassets\msbuild.Student_Registration_Theme.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\staticwebassets\msbuild.build.Student_Registration_Theme.props
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Student_Registration_Theme.props
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Student_Registration_Theme.props
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\staticwebassets.build.json
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\staticwebassets.development.json
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\scopedcss\bundle\Student_Registration_Theme.styles.css
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\scopedcss\projectbundle\Student_Registration_Theme.bundle.scp.css
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\refint\Student_Registration_Theme.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.pdb
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.genruntimeconfig.cache
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\ref\Student_Registration_Theme.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Humanizer.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\MessagePack.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\NuGet.Common.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.csproj.CopyComplete
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Data.Odbc.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Data.OleDb.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Unity.Abstractions.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Unity.Interception.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Sem 5\Asp Dot Net\Nice Admin Database\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\appsettings.json
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Student_Registration_Theme.staticwebassets.runtime.json
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Student_Registration_Theme.exe
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Student_Registration_Theme.deps.json
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Student_Registration_Theme.runtimeconfig.json
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Student_Registration_Theme.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Student_Registration_Theme.pdb
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Humanizer.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\MessagePack.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Data.Odbc.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Data.OleDb.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Unity.Abstractions.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Unity.Interception.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.csproj.AssemblyReference.cache
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.AssemblyInfoInputs.cache
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.AssemblyInfo.cs
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.csproj.CoreCompileInputs.cache
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.RazorAssemblyInfo.cache
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.RazorAssemblyInfo.cs
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\staticwebassets\msbuild.Student_Registration_Theme.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\staticwebassets\msbuild.build.Student_Registration_Theme.props
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Student_Registration_Theme.props
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Student_Registration_Theme.props
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\scopedcss\bundle\Student_Registration_Theme.styles.css
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\scopedcss\projectbundle\Student_Registration_Theme.bundle.scp.css
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.csproj.CopyComplete
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\refint\Student_Registration_Theme.dll
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.pdb
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.genruntimeconfig.cache
+C:\Users\91823\Downloads\Student_Registration_Theme\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\ref\Student_Registration_Theme.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\appsettings.Development.json
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\appsettings.json
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Student_Registration_Theme.staticwebassets.runtime.json
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Student_Registration_Theme.exe
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Student_Registration_Theme.deps.json
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Student_Registration_Theme.runtimeconfig.json
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Student_Registration_Theme.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Student_Registration_Theme.pdb
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Humanizer.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\MessagePack.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.Build.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\NuGet.Common.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Data.Odbc.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Data.OleDb.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Unity.Abstractions.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Unity.Interception.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\af\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ar\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\az\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\bg\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\cs\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\da\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\de\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\el\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\es\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\fa\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\fr\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\he\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\hr\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\hu\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\hy\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\id\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\is\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\it\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ja\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ku\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\lv\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\mt\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\nb\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\nl\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pl\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pt\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ro\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ru\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\sk\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\sl\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\sr\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\sv\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\tr\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\uk\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\vi\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.csproj.AssemblyReference.cache
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.AssemblyInfoInputs.cache
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.AssemblyInfo.cs
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.csproj.CoreCompileInputs.cache
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.MvcApplicationPartsAssemblyInfo.cache
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.RazorAssemblyInfo.cache
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.RazorAssemblyInfo.cs
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\staticwebassets\msbuild.Student_Registration_Theme.Microsoft.AspNetCore.StaticWebAssets.props
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\staticwebassets\msbuild.build.Student_Registration_Theme.props
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Student_Registration_Theme.props
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Student_Registration_Theme.props
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\staticwebassets.pack.json
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\staticwebassets.build.json
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\staticwebassets.development.json
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\scopedcss\bundle\Student_Registration_Theme.styles.css
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\scopedcss\projectbundle\Student_Registration_Theme.bundle.scp.css
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.csproj.CopyComplete
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\refint\Student_Registration_Theme.dll
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.pdb
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.genruntimeconfig.cache
+E:\SEM 5\ASP.net\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\ref\Student_Registration_Theme.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\appsettings.Development.json
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\appsettings.json
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Student_Registration_Theme.staticwebassets.runtime.json
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Student_Registration_Theme.exe
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Student_Registration_Theme.deps.json
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Student_Registration_Theme.runtimeconfig.json
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Student_Registration_Theme.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Student_Registration_Theme.pdb
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Humanizer.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\MessagePack.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\NuGet.Common.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Data.Odbc.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Data.OleDb.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Unity.Abstractions.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\Unity.Interception.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.csproj.AssemblyReference.cache
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.AssemblyInfoInputs.cache
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.AssemblyInfo.cs
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.csproj.CoreCompileInputs.cache
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.MvcApplicationPartsAssemblyInfo.cache
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.RazorAssemblyInfo.cache
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.RazorAssemblyInfo.cs
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\staticwebassets\msbuild.Student_Registration_Theme.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\staticwebassets\msbuild.build.Student_Registration_Theme.props
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Student_Registration_Theme.props
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Student_Registration_Theme.props
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\staticwebassets.build.json
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\staticwebassets.development.json
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\scopedcss\bundle\Student_Registration_Theme.styles.css
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\scopedcss\projectbundle\Student_Registration_Theme.bundle.scp.css
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.csproj.CopyComplete
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\refint\Student_Registration_Theme.dll
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.pdb
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\Student_Registration_Theme.genruntimeconfig.cache
+D:\Sem 5\Asp Dot Net\NIce Admin Theme 1\Student_Registration_Theme\Student_Registration_Theme\obj\Debug\net6.0\ref\Student_Registration_Theme.dll

@@ -1,0 +1,159 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using System.Data;
+@model System.Data.DataTable;
+
+<div class="border rounded p-5 shadow">
+
+    <div class="d-flex justify-content-between align-items-center">
+
+        <h5 class="fw-bold"><i class="bi bi-gear me-2" style="font-size: 20px"></i>CITY LIST</h5>
+        <a asp-area="City" asp-controller="LOC_City" asp-action="LOC_CityAddEdit">
+            <button type="submit" class="btn bg-success text-white py-2"><i class="bi bi-plus-circle me-2"></i>ADD CITY</button>
+        </a>
+
+    </div>
+
+    <hr />
+
+    @*<div class="border border-dark rounded ps-3 pe-5 py-2 ms-auto w-25 my-3">
+
+    Search here
+
+    </div>*@
+
+    @*<input type="text" placeholder="Search here" class="border border-dark d-block rounded ps-3 pe-5 py-2 ms-auto my-3" />*@
+
+    <form asp-area="City" asp-controller="LOC_City">
+        <div class="row">
+            <div class="w-25 ms-auto my-3">
+                <label class="visually-hidden" for="autoSizingInputGroup">Username</label>
+                <div class="input-group">
+                    <div class="input-group-text bg-transparent" style="font-size: 15px"><i class="bi bi-search"></i></div>
+                    <input type="text" class="form-control" id="CityName" name="CityName" placeholder="Search City Name here">
+                    @* <input type="hidden" name="CityName" value="CityName" />*@
+                </div>
+            </div>
+
+            <div class="w-25 my-3">
+                <label class="visually-hidden" for="autoSizingInputGroup">Username</label>
+                <div class="input-group">
+                    <div class="input-group-text bg-transparent" style="font-size: 15px"><i class="bi bi-search"></i></div>
+                    <input type="text" class="form-control" id="CityCode" name="CityCode" placeholder="Search City Code here">
+                    @*<input type="hidden" name="CityCode" value="CityCode" />*@
+                </div>
+            </div>
+
+            <div class="w-25 ms-auto my-3">
+                <label class="visually-hidden" for="autoSizingInputGroup">Username</label>
+                <div class="input-group">
+                    <div class="input-group-text bg-transparent" style="font-size: 15px"><i class="bi bi-search"></i></div>
+                    <input type="text" class="form-control" id="StateName" name="StateName" placeholder="Search State Name here">
+                    @* <input type="hidden" name="StateName" value="StateName" />*@
+                </div>
+            </div>
+
+            <div class="w-25 ms-auto my-3">
+                <label class="visually-hidden" for="autoSizingInputGroup">Username</label>
+                <div class="input-group">
+                    <div class="input-group-text bg-transparent" style="font-size: 15px"><i class="bi bi-search"></i></div>
+                    <input type="text" class="form-control" id="CountryName" name="CountryName" placeholder="Search Country Name here">
+                    @* <input type="hidden" name="CountryName" value="CountryName" />*@
+                </div>
+            </div>
+
+            <div class="w-auto my-3">
+                <div class="input-group">
+                    <input type="submit" asp-action="LOC_CityFilter" class="btn btn-primary" id="" value="Apply Filter">
+                </div>
+            </div>
+
+            <div class="w-auto my-3">
+                <div class="input-group">
+                    <input type="submit" asp-action="LOC_CityList" class="btn text-white" style="background-color: rgba(10 , 10 , 10 , 0.5)" id="" value="Clear Filter">
+                </div>
+            </div>
+
+        </div>
+    </form>
+
+    <div class="line ms-auto my-3"></div>
+
+    <div class="w-25 ms-auto my-3">
+        <label class="visually-hidden" for="autoSizingInputGroup">Username</label>
+        <div class="input-group">
+            <div class="input-group-text bg-transparent" style="font-size: 15px"><i class="bi bi-search"></i></div>
+            <input type="text" class="form-control" id="myInput" placeholder="Search here">
+        </div>
+    </div>
+
+    <div>
+
+        <table class="table table-striped table-bordered">
+            <thead>
+                <tr>
+                    @*<th scope="col">StateId</th>*@
+                    <th scope="col" class="text-center">City Name</th>
+                    <th scope="col" class="text-center">City Code</th>
+                    <th scope="col" class="text-center">State Name</th>
+                    <th scope="col" class="text-center">Country Name</th>
+                    <th scope="col" class="text-center">Created</th>
+                    <th scope="col" class="text-center">Modified</th>
+                    <th scope="col" class="text-center">Actions</th>
+                </tr>
+            </thead>
+            <tbody id="myTable">
+
+                @foreach (DataRow dr in Model.Rows)
+                {
+
+                    <tr>
+                        @*<td class="text-center">@dr["StateId"]</td>*@
+                        <td class="text-center">@dr["CityName"]</td>
+                        <td class="text-center">@dr["CityCode"]</td>
+                        <td class="text-center">@dr["StateName"]</td>
+                        <td class="text-center">@dr["CountryName"]</td>
+                        <td class="text-center">@dr["Created"]</td>
+                        <td class="text-center">@dr["Modified"]</td>
+                        <td class="text-center d-flex justify-content-center align-items-center">
+
+                            <form asp-area="City" asp-controller="LOC_City" asp-action="LOC_CityAddEdit">
+                                <input type="hidden" name="CityId" value="@Convert.ToInt32(dr["CityID"])" />
+                                <button type="submit" class="btn btn-primary me-2 py-1"><i class="bi bi-pen" style="font-size: 14px"></i></button>
+                            </form>
+                            <form asp-area="City" asp-controller="LOC_City" asp-action="DeleteCity">
+                                <input type="hidden" name="CityId" value="@Convert.ToInt32(dr["CityID"])" />
+                                <button type="submit" class="btn btn-danger py-1"><i class="bi bi-trash" style="font-size: 14px"></i></button>
+                            </form>
+
+                        </td>
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+
+    </div>
+
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+
+@section Scripts {
+
+    <script>
+        $(document).ready(function () {
+            //alert("Hello");
+            $("#myInput").on("keyup", function () {
+                //alert("Function");
+                var value = $(this).val().toLowerCase();
+                $("#myTable tr").filter(function () {
+                    $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+                });
+            });
+        });
+    </script>
+
+}

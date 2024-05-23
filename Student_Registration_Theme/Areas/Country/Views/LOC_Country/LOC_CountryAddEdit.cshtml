@@ -1,0 +1,32 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model Student_Registration_Theme.Areas.Country.Models.LOC_CountryModel;
+
+<div class="container border border-gray rounded p-5 shadow">
+
+    <h2><i class="bi bi-gear me-2 pb-5" style="font-size: 25px"></i>Country</h2>
+
+    <hr />
+
+    <form class="pt-3" method="post" asp-area="Country" asp-controller="LOC_Country" asp-action="LOC_CountrySave">
+
+        <div class="col my-4">
+            <input type="text" class="form-control" asp-for= "CountryName" placeholder="Country Name" aria-label="First name">
+        </div>
+
+        <div class="col my-4">
+            <input type="text" class="form-control" asp-for="CountryCode" placeholder="Country Code" aria-label="Last name">
+        </div>
+
+        <div class="col mt-4">
+            
+            <input type="hidden" name="CountryID" value = "@Model.CountryID" />
+            <button class="btn btn-primary" type="submit">Submit</button>
+
+        </div>
+
+    </form>
+
+</div>

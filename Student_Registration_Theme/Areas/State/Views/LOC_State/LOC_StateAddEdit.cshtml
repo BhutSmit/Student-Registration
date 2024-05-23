@@ -1,0 +1,40 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model Student_Registration_Theme.Areas.State.Models.LOC_StateModel;
+@using static System.Data.DataTable;
+@using Student_Registration_Theme.Areas.Country.Models
+@* @model System.Data.DataTable; *@
+
+
+<div class="container border border-gray rounded p-5 shadow">
+
+    <h2><i class="bi bi-gear me-2 pb-5" style="font-size: 25px"></i>State</h2>
+
+    <hr />
+
+    <form class="pt-3" method="post" asp-area="State" asp-controller="LOC_State" asp-action="LOC_StateSave">
+
+        <div class="col my-4">
+            <input type="text" class="form-control" asp-for="StateName" value="@Model.StateName" placeholder="State Name" aria-label="First name">
+        </div>
+
+        <div class="col my-4">
+            <input type="text" class="form-control" asp-for="StateCode" value="@Model.StateCode" placeholder="State Code" aria-label="Last name">
+        </div>
+
+        <div class="col my-4 form-group">
+            <select class="form-control" asp-for="CountryID" asp-items="@(new SelectList(ViewBag.CountryList,"CountryID","CountryName"))"><option>Select Countrty</option></select>
+        </div>
+
+        <div class="col mt-4">
+
+            <input type="hidden" name="StateId" value="@Model.StateID" />
+            <button class="btn btn-primary" type="submit">Submit</button>
+
+        </div>
+
+    </form>
+
+</div>

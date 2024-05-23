@@ -1,0 +1,99 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model Student_Registration_Theme.Areas.Student.Models.MST_StudentModel;
+
+<div class="container border border-gray rounded p-5 shadow">
+
+    <h2><i class="bi bi-gear me-2 pb-5" style="font-size: 25px"></i>Student</h2>
+
+    <hr />
+
+    <form class="pt-3" method="post" asp-area="Student" asp-controller="MST_Student" asp-action="MST_StudentSave">
+
+        <div class="col my-4">
+            <input type="text" class="form-control" asp-for="StudentName" placeholder="Student Name" aria-label="First name">
+        </div>
+
+        <div class="col my-4 form-group">
+            <label>Branch</label>
+            <select class="form-control" asp-for="BranchID" asp-items="@(new SelectList(ViewBag.BranchList,"BranchID" , "BranchName"))">
+                <option>Select Branch</option>
+            </select>
+            <span asp-validation-for="BranchID" class="text-danger"></span>
+        </div>
+
+        <div class="col my-4 form-group">
+            <label>City</label>
+            <select class="form-control" asp-for="CityID" asp-items="@(new SelectList(ViewBag.CityList,"CityID" , "CityName"))">
+                <option>Select City</option>
+            </select>
+            <span asp-validation-for="CityID" class="text-danger"></span>
+        </div>
+
+        <div class="col my-4">
+            <label> Student Mobile no.</label>
+            <input type="text" placeholder="Enter Student Mobile no." asp-for="MobileNoStudent" class="form-control" value="@Model.MobileNoStudent" />
+            <span asp-validation-for="MobileNoStudent" class="text-danger"></span>
+        </div>
+
+        <div class="col my-4">
+            <label> Email</label>
+            <input type="text" placeholder="Enter Email" asp-for="Email" class="form-control" value="@Model.Email" />
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+
+        <div class="col my-4">
+            <label> Father Mobile no.</label>
+            <input type="text" placeholder="Enter Father's Mobile no.'" asp-for="MobileNoFather" class="form-control" value="@Model.MobileNoFather" />
+            <span asp-validation-for="MobileNoFather" class="text-danger"></span>
+        </div>
+
+        <div class="col my-4">
+            <label> Address</label>
+            <textarea class="form-control" placeholder="Enter Address" asp-for="Address">@Model.Address</textarea>
+            <span asp-validation-for="Address" class="text-danger"></span>
+            @* <input type="text" placeholder="Enter Country name" asp-for="StudentName" class="form-control" value="@Model.StudentName" /> *@
+        </div>
+
+        <div class="col my-4">
+            <label> Birth Date</label>
+            <input type="text" placeholder="Enter Birthdate" asp-for="BirthDate" class="form-control" value="@Convert.ToDateTime(Model.BirthDate)" />
+            <span asp-validation-for="BirthDate" class="text-danger"></span>
+        </div>
+
+        <div class="col my-4">
+            <label> Age</label>
+            <input type="text" placeholder="Enter Age" asp-for="Age" class="form-control" value="@Model.Age" />
+            <span asp-validation-for="Age" class="text-danger"></span>
+        </div>
+
+        <div class="col my-4">
+            <label> Is Active</label>
+            <input type="text" placeholder="IS Active True or False" asp-for="IsActive" class="form-control" value="@Convert.ToBoolean(Model.IsActive)" />
+            <span asp-validation-for="IsActive" class="text-danger"></span>
+        </div>
+
+        <div class="col my-4">
+            <label> Gender</label>
+            <input type="text" placeholder="Enter Gender" asp-for="Gender" class="form-control" value="@Model.Gender" />
+            <span asp-validation-for="Gender" class="text-danger"></span>
+        </div>
+
+        <div class="col my-4">
+            <label> Password</label>
+            <input type="text" placeholder="Enter Password" asp-for="Password" class="form-control" value="@Model.Password" />
+            <span asp-validation-for="Password" class="text-danger"></span>
+        </div>
+
+        <div class="col mt-4">
+
+            <input type="hidden" name="StudentID" value="@Model.StudentID" />
+            <button class="btn btn-primary" type="submit">Submit</button>
+
+        </div>
+
+    </form>
+
+</div>
